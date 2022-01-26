@@ -1,0 +1,26 @@
+#map {
+  height: 100%;
+}
+
+/* Optional: Makes the sample page fill the window. */
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+.pop-ap {
+  display: flex;
+}
+img {
+  width: 200px;
+  height: 200px;
+}
+p {
+  font-size: 20px;
+}
+h3 {
+  text-align: center;
+  color: blue;
+  font-size: 25px;
+}
